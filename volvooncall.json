@@ -13,7 +13,7 @@
         "proxy": "",
         "authType": "basic",
         "senderr": false,
-        "x": 790,
+        "x": 410,
         "y": 200,
         "wires": [
             [
@@ -36,7 +36,7 @@
         "targetType": "full",
         "statusVal": "",
         "statusType": "auto",
-        "x": 1150,
+        "x": 770,
         "y": 160,
         "wires": []
     },
@@ -51,8 +51,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 540,
-        "y": 120,
+        "x": 440,
+        "y": 100,
         "wires": [
             [
                 "b742e6e984b612d9"
@@ -73,7 +73,7 @@
         "targetType": "msg",
         "statusVal": "",
         "statusType": "auto",
-        "x": 1370,
+        "x": 990,
         "y": 200,
         "wires": []
     },
@@ -85,7 +85,7 @@
         "property": "payload",
         "action": "",
         "pretty": false,
-        "x": 1110,
+        "x": 730,
         "y": 220,
         "wires": [
             [
@@ -107,7 +107,7 @@
         "proxy": "",
         "authType": "basic",
         "senderr": false,
-        "x": 790,
+        "x": 410,
         "y": 240,
         "wires": [
             [
@@ -129,7 +129,7 @@
         "complete": "false",
         "statusVal": "",
         "statusType": "auto",
-        "x": 1210,
+        "x": 830,
         "y": 280,
         "wires": []
     },
@@ -144,7 +144,7 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1240,
+        "x": 860,
         "y": 220,
         "wires": [
             [
@@ -161,7 +161,7 @@
         "name": "",
         "mode": "link",
         "links": [],
-        "x": 1385,
+        "x": 1005,
         "y": 240,
         "wires": []
     },
@@ -174,8 +174,8 @@
         "links": [
             "486ea2324af56975"
         ],
-        "x": 675,
-        "y": 120,
+        "x": 575,
+        "y": 100,
         "wires": []
     },
     {
@@ -186,8 +186,8 @@
         "links": [
             "b742e6e984b612d9"
         ],
-        "x": 275,
-        "y": 220,
+        "x": 65,
+        "y": 240,
         "wires": [
             [
                 "94facfb171da4575",
@@ -214,7 +214,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 480,
+        "x": 200,
         "y": 200,
         "wires": [
             [
@@ -243,8 +243,8 @@
         "topic": "",
         "payload": "status",
         "payloadType": "str",
-        "x": 310,
-        "y": 80,
+        "x": 230,
+        "y": 40,
         "wires": [
             [
                 "0e851e529ecad233"
@@ -265,8 +265,8 @@
         "rap": true,
         "rh": 0,
         "inputs": 0,
-        "x": 190,
-        "y": 140,
+        "x": 170,
+        "y": 100,
         "wires": [
             [
                 "0e851e529ecad233"
