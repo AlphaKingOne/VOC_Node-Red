@@ -149,7 +149,8 @@
         "wires": [
             [
                 "8028e422789e15dc",
-                "ebc1a17c13ac2d90"
+                "ebc1a17c13ac2d90",
+                "8382b1a91b96ac98"
             ]
         ],
         "icon": "font-awesome/fa-bug"
@@ -272,6 +273,25 @@
                 "0e851e529ecad233"
             ]
         ]
+    },
+    {
+        "id": "8382b1a91b96ac98",
+        "type": "mqtt out",
+        "z": "74c5494dc47e0504",
+        "d": true,
+        "name": "",
+        "topic": "/SmartHome/Volvo/Volvo_Status/",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "8dbb55e797368e83",
+        "x": 1120,
+        "y": 280,
+        "wires": []
     },
     {
         "id": "8dbb55e797368e83",
